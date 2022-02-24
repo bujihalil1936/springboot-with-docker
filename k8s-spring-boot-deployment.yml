@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot
-          image: bujihalil/hellohuawei
+          image: bujihalil/hello8
           ports:
             - containerPort: 8080
           env:
